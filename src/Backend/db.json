@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "dr.nodira",
+      "password": "12345",
+      "avatar": "https://i.pravatar.cc/100",
+      "cards": []
+    },
+    {
+      "id": "5dcc",
+      "username": "admin",
+      "password": "12345",
+      "avatar": "https://ui-avatars.com/api/?name=admin",
+      "cards": [
+        {
+          "id": "1756807200793",
+          "cardNumber": "86001423102910239",
+          "type": "UZCARD",
+          "balance": 12000
+        },
+        {
+          "id": "1756811577595",
+          "cardNumber": "23455432q11234567",
+          "type": "UNKNOWN",
+          "balance": 12345678900
+        }
+      ]
+    },
+    {
+      "id": "ae13",
+      "username": "admin",
+      "password": "12345",
+      "avatar": "https://ui-avatars.com/api/?name=admin",
+      "cards": []
+    },
+    {
+      "id": "53d3",
+      "username": "Muxammad sodiq",
+      "email": "freelancer.vip.uz@gmail.com",
+      "avatar": "https://ui-avatars.com/api/?name=Muxammad%20sodiq",
+      "cards": [
+        {
+          "id": 1756717462398,
+          "cardNumber": "8600908828091234",
+          "type": "UZCARD",
+          "balance": 12000
+        },
+        {
+          "id": 1756717580103,
+          "cardNumber": "1111111111111111111111",
+          "type": "UNKNOWN",
+          "balance": 111111
+        },
+        {
+          "id": "1756719099584",
+          "cardNumber": "1233432112344321",
+          "type": "UNKNOWN",
+          "balance": 122424
+        }
+      ]
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "name": "Dr. Nodira",
+      "cards": [
+        {
+          "id": 1,
+          "cardNumber": "9860123456789012",
+          "type": "HUMO",
+          "balance": 3500000
+        }
+      ]
+    }
+  ],
+  "clients": [
+    {
+      "id": "cd6f",
+      "name": "Muxammad Sodiq Alimov",
+      "phone": "+998952726070",
+      "address": "qibray tumani",
+      "disease": "Gipertoniya"
+    },
+    {
+      "id": "a654",
+      "name": "Muxammad sodiq Asqar ali turg'unov",
+      "phone": "+998952726070",
+      "address": "qibray",
+      "disease": "Diabet"
+    },
+    {
+      "id": "4e02",
+      "name": "Muxammad sodiq Asqar ali turg'unov",
+      "phone": "+998952726070",
+      "address": "qibray",
+      "disease": "Gipertoniya"
+    },
+    {
+      "id": "5630",
+      "name": "Muxammad sodiq Asqar ali turg'unov",
+      "phone": "+998952726070",
+      "address": "qibray",
+      "disease": "Diabet"
+    },
+    {
+      "id": "75c1",
+      "name": "Muxammad sodiq Asqar ali turg'unov",
+      "phone": "+998952726070",
+      "address": "qibray",
+      "disease": "Gipertoniya"
+    }
+  ]
+}
